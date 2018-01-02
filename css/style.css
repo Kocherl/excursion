@@ -23,6 +23,10 @@ h1{
   font-size: 21px;
   color: grey;
 }
+.tent{
+  width: 900px;
+  height:700px;
+}
 .copy{
   color: grey;
   text-align: right
